@@ -1,2 +1,1 @@
-# anubhavChaturvedi-FrontEndLab
-Front End HTML &amp; CSS Lab Solution (Anubhav Chaturvedi)
+# Front End HTML & CSS Lab Solution (Anubhav Chaturvedi)
